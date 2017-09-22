@@ -1,6 +1,16 @@
 [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 ===
 
+Growth 纸质版《全栈应用开发：精益实践》，现已上市：
+
+![全栈应用开发：精益实践](marketing/growth-paper.jpeg)
+
+京东：[http://item.jd.com/12195442.html](http://item.jd.com/12195442.html)
+
+当当：[http://product.dangdang.com/25077858.html](http://product.dangdang.com/25077858.html)
+
+亚马逊：[https://www.amazon.cn/dp/B0722YJR89](https://www.amazon.cn/dp/B0722YJR89)
+
 配合《[Growth: 全栈增长工程师实战](https://github.com/phodal/growth-in-action)》效果最佳。
 
 > 依据在《[Repractise简介篇：Web开发的七天里](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=403171959&idx=1&sn=08f0717e2306efd7d80c8bb603e644d0#rd)》中所说的 Web 开发的七个步骤而展开的电子书。当然它也是一个 APP，它是一本关于如何成为全栈增长工程师的指南。
@@ -8,7 +18,9 @@
 简介
 --
 
-**这是一本指导性的书籍——不要指望从这本书中学到所有的知识点，但是它可以帮你构建你的知识体系。**我们都会学习，但是有时候我们只是不知道应该学习什么而已。**这也是其他技术书籍所欠缺的。它可以告诉你，你可以学习什么，然后看什么书。**
+**这是一本指导性的书籍——不要指望从这本书中学到所有的知识点，但是它可以帮你构建你的知识体系。**
+我们都会学习，但是有时候我们只是不知道应该学习什么而已。
+**这也是其他技术书籍所欠缺的。它可以告诉你，你可以学习什么，然后看什么书。**
 
 对于有些人来说，成为全栈是因为：**来自社会的各个不同的中小公司，只靠一个领域的知识难以生存**
 对于有些人来说，成为全栈是因为：**这个世界有太多的乐趣，在一颗树上吊死太可惜了**。
@@ -32,7 +44,7 @@ GitHub直接下载：[Epub版](https://github.com/phodal/growth-ebook/releases/d
 
 百度盘：http://pan.baidu.com/s/1qYuy5Bm
 
-没钱棒个人场: 关注我的微信公众号（扫描下面的二维码或搜索 Phodal）.
+没钱捧个人场: 关注我的微信公众号（扫描下面的二维码或搜索 Phodal）.
 
 ![QRCode](./marketing/wp.jpg)
 
